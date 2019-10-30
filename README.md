@@ -2,5 +2,5 @@
 ## Usage
 
 ### go build
-
-### ./weather weather mersin
+### sudo cp weather /usr/local/bin
+### weather weather mersin
